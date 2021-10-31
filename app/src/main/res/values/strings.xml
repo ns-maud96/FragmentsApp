@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FragmentsApp</string>
+    <string name="activity_main">Main Activity</string>
+    <string name="fragment_first_text">First fragment</string>
+    <string name="fragment_second_text">Second fragment</string>
+    <string name="fragment_third_text">Third fragment</string>
+</resources>
